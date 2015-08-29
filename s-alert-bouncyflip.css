@@ -1,15 +1,11 @@
 /* Bouncy Flip adapted from animate.css by Dan Eden: http://daneden.github.io/animate.css/ */
 
-.s-alert-effect-bouncyflip.s-alert-left-bottom,
-.s-alert-effect-bouncyflip.s-alert-right-bottom,
 .s-alert-bottom-left.s-alert-effect-bouncyflip,
 .s-alert-bottom-right.s-alert-effect-bouncyflip,
 .s-alert-bottom.s-alert-effect-bouncyflip {
     -webkit-transform-origin: 50% 100%;
     transform-origin: 50% 100%;
 }
-.s-alert-effect-bouncyflip.s-alert-left-top,
-.s-alert-effect-bouncyflip.s-alert-right-top,
 .s-alert-top-left.s-alert-effect-bouncyflip,
 .s-alert-top-right.s-alert-effect-bouncyflip
 .s-alert-top.s-alert-effect-bouncyflip {
@@ -17,22 +13,18 @@
     transform-origin: 50% 0%;
 }
 
-.s-alert-effect-bouncyflip.s-alert-left-bottom,
 .s-alert-bottom-left.s-alert-effect-bouncyflip {
     bottom: 0;
     left: 0;
 }
-.s-alert-effect-bouncyflip.s-alert-left-top,
 .s-alert-top-left.s-alert-effect-bouncyflip {
     left: 0;
     top: 0;
 }
-.s-alert-effect-bouncyflip.s-alert-right-top,
 .s-alert-top-right.s-alert-effect-bouncyflip {
     right: 0;
     top: 0;
 }
-.s-alert-effect-bouncyflip.s-alert-right-bottom,
 .s-alert-bottom-right.s-alert-effect-bouncyflip {
     right: 0;
     bottom: 0;
@@ -52,10 +44,6 @@
     background: #fff;
 }
 
-.s-alert-effect-bouncyflip.s-alert-left-top.s-alert-show,
-.s-alert-effect-bouncyflip.s-alert-right-top.s-alert-show,
-.s-alert-effect-bouncyflip.s-alert-left-top.s-alert-hide,
-.s-alert-effect-bouncyflip.s-alert-right-top.s-alert-hide,
 .s-alert-top-left.s-alert-effect-bouncyflip.s-alert-hide,
 .s-alert-top-right.s-alert-effect-bouncyflip.s-alert-hide,
 .s-alert-top-left.s-alert-effect-bouncyflip.s-alert-show,
@@ -68,10 +56,6 @@
     animation-duration: 0.8s;
 }
 
-.s-alert-effect-bouncyflip.s-alert-left-bottom.s-alert-show,
-.s-alert-effect-bouncyflip.s-alert-right-bottom.s-alert-show,
-.s-alert-effect-bouncyflip.s-alert-left-bottom.s-alert-hide,
-.s-alert-effect-bouncyflip.s-alert-right-bottom.s-alert-hide,
 .s-alert-bottom-left.s-alert-effect-bouncyflip.s-alert-hide,
 .s-alert-bottom-right.s-alert-effect-bouncyflip.s-alert-hide,
 .s-alert-bottom-left.s-alert-effect-bouncyflip.s-alert-show,
@@ -210,8 +194,6 @@
     }
 }
 
-.s-alert-effect-bouncyflip.s-alert-left-top.s-alert-hide,
-.s-alert-effect-bouncyflip.s-alert-right-top.s-alert-hide,
 .s-alert-top-right.s-alert-effect-bouncyflip.s-alert-hide,
 .s-alert-top-left.s-alert-effect-bouncyflip.s-alert-hide,
 .s-alert-top.s-alert-effect-bouncyflip.s-alert-hide {
@@ -220,8 +202,6 @@
     -webkit-animation-duration: 0.3s;
     animation-duration: 0.3s;
 }
-.s-alert-effect-bouncyflip.s-alert-left-bottom.s-alert-hide,
-.s-alert-effect-bouncyflip.s-alert-right-bottom.s-alert-hide,
 .s-alert-bottom-right.s-alert-effect-bouncyflip.s-alert-hide,
 .s-alert-bottom-left.s-alert-effect-bouncyflip.s-alert-hide,
 .s-alert-bottom.s-alert-effect-bouncyflip.s-alert-hide  {
