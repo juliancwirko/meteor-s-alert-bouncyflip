@@ -13,23 +13,6 @@
     transform-origin: 50% 0%;
 }
 
-.s-alert-bottom-left.s-alert-effect-bouncyflip {
-    bottom: 0;
-    left: 0;
-}
-.s-alert-top-left.s-alert-effect-bouncyflip {
-    left: 0;
-    top: 0;
-}
-.s-alert-top-right.s-alert-effect-bouncyflip {
-    right: 0;
-    top: 0;
-}
-.s-alert-bottom-right.s-alert-effect-bouncyflip {
-    right: 0;
-    bottom: 0;
-}
-
 .s-alert-effect-bouncyflip p {
     padding: 0.5em 0.8em 0.5em 0.8em;
 }
